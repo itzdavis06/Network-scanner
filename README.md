@@ -1,0 +1,2 @@
+# Network scanner
+A beginner-friendly project to build a Python tool that scans a given IP for open TCP ports and documents results. This repo contains the project plan, starter code, and progress updates.  ## Goals - Prompt user for target IP - Scan common TCP ports and report open ports - Optionally integrate Nmap for richer service info - Save results to CSV and document remediation steps  ## Current status - Repository created (initial README) - Next: add starter Python scanner and example output
